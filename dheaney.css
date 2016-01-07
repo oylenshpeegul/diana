@@ -1,0 +1,32 @@
+body {
+  color: black;
+  background: url(ltgray.jpg) #cccccc;
+}
+
+.framed {
+  background:#eeeeee;
+  color: black;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  padding: 5%;
+  border: solid;
+  border-width: medium;
+  border-color: black;
+}
+
+.quote { 
+  background: rgb(204,204,255);
+  border: solid;
+  border-width: thin;
+  font-family: Times, TimesNR, serif;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 5%;
+}
+
+.quoted { 
+  text-align: right; 
+  font-style: italic;
+}
